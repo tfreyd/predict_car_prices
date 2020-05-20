@@ -1,4 +1,4 @@
 # Predict Car Prices
 
-The model can predict the car price with an approximation as low as 1814$. The 
+The model is trained on data from Ebay car sales data and can predict the car price with an approximation as low as 1814$. The 
 [image](./rmse_multivariate.jpg)
