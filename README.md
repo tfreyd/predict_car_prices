@@ -8,7 +8,6 @@ The model is trained on data from Ebay car sales data and can predict the car pr
 - eng_size 
 - city_mpg 
 - width 
-
 ![image](rmse_univariate.jpg)
 
 ### Find the optimal settings (number of features and k value)
