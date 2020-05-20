@@ -12,6 +12,6 @@ By sampling a few k values with all the numeric features found in the dataset, t
 
 ![image](rmse_univariate.jpg)
 
-### Find the best couples of setting (number of features and k value)
+### Find the optimal settings (number of features and k value)
 Different combination of the best features were tested for a range of parameters and the couple of setting which gave the lowest RMSE was using 5 features and a k value of 16. 
 ![image](rmse_multivariate.jpg)
