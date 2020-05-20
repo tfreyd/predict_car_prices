@@ -9,6 +9,7 @@ By sampling a few k values with all the numeric features found in the dataset, t
 - eng_size 
 - city_mpg 
 - width 
+
 ![image](rmse_univariate.jpg)
 
 ### Find the best couples of setting (number of features and k value)
