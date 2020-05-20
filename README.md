@@ -11,7 +11,7 @@ The model is trained on data from Ebay car sales data and can predict the car pr
 
 ![image](rmse_univariate.jpg)
 
-### Find the optimal settings (number of features and k value)
+### Optimal settings for multivariate linear regression (number of features and k value)
 Based on the first graph different combination of the best features were tested for a range of parameters. The couple of setting that gave the lowest RMSE was with 5 features and a k value of 16. 
 ![image](rmse_multivariate.jpg)
 
