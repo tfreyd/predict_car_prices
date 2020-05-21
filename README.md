@@ -16,5 +16,5 @@ The model is trained on data from Ebay car sales data and can predict the car pr
 Based on the first graph different combination of the best features were tested for a range of parameters. The couple of setting that gave the lowest RMSE was with 5 features and a k value of 16. 
 ![image](rmse_multivariate.jpg)
 
-###Conclusion 
+### Conclusion 
 The model can approximate the car price with a deviation of 1814$ which is still quite high. The dataset was quite small and so gathering more data might help to decrease this deviation.
