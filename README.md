@@ -1,6 +1,7 @@
 # Predict Car Prices
 
-The model is trained on data from Ebay car sales data and can predict the car price with an approximation as low as 1814$. This value was obtained by applying a multivariate linear regression with 5 features and a k value of 16. 
+The model is trained on data from Ebay car sales data and can predict the car price with an approximation as low as 1814$. This value was obtained by applying a multivariate K nearest neighbors regression with 5 features and a k value of 16. 
+![image](hist_car_prices.jpg)
 ### Best features for univariate K nearest neighbors regression 
  By sampling a few k values on all the numeric features found in the dataset, the 5 that gave the lowest RMSE were:
 - highway_mpg 
